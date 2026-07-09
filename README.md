@@ -6,16 +6,11 @@
 
 ### About me
 
-Software Engineering student at **ENSIAS**, Rabat 🇲🇦, building toward a career as a Junior Software Engineer.
-
-- 💻&nbsp; I enjoy building full-stack products — web apps, backend systems, and cloud-native infrastructure
-- ☁️&nbsp; Currently sharpening my DevOps and Cloud Computing skills through hands-on projects
-- 🌱&nbsp; Growing interest in bringing AI into practical software solutions
-- 📫&nbsp; Reach me here:
+Software Engineering student at **ENSIAS**, Rabat 🇲🇦, passionate about full-stack development, DevOps and Cloud Computing. I enjoy building end-to-end products and am growing my interest in bringing AI into practical software solutions.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-A2D2FF?style=for-the-badge&logo=linkedin&logoColor=6B4A5A)](https://linkedin.com/in/zainab-farih)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFAFCC?style=for-the-badge&logo=linkedin&logoColor=6B4A5A)](https://linkedin.com/in/zainab-farih)
 
 </div>
 
@@ -27,11 +22,11 @@ Software Engineering student at **ENSIAS**, Rabat 🇲🇦, building toward a ca
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2200&pause=800&color=CDB4DB&center=true&vCenter=true&width=700&lines=React+%C2%B7+Next.js+%C2%B7+Tailwind+CSS;Node.js+%C2%B7+Express+%C2%B7+Spring+Boot+%C2%B7+FastAPI+%C2%B7+Laravel;PostgreSQL+%C2%B7+MySQL+%C2%B7+MongoDB+%C2%B7+SQLite;Docker+%C2%B7+Kubernetes+%C2%B7+Terraform+%C2%B7+GitHub+Actions;AWS+%C2%B7+OCI+%C2%B7+GitLab+CI%2FCD+%C2%B7+PyTorch" alt="tech stack typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2200&pause=800&color=CDB4DB&center=true&vCenter=true&width=700&lines=C+%C2%B7+Java+%C2%B7+Python+%C2%B7+JavaScript+%C2%B7+TypeScript+%C2%B7+PHP+%C2%B7+Kotlin;React+%C2%B7+Next.js+%C2%B7+Tailwind+CSS;Node.js+%C2%B7+Express+%C2%B7+Spring+Boot+%C2%B7+FastAPI+%C2%B7+Laravel;PostgreSQL+%C2%B7+MySQL+%C2%B7+MongoDB+%C2%B7+SQLite;Docker+%C2%B7+Kubernetes+%C2%B7+Terraform+%C2%B7+GitHub+Actions;AWS+%C2%B7+OCI+%C2%B7+GitLab+CI%2FCD+%C2%B7+PyTorch" alt="tech stack typing" />
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,spring,fastapi,laravel,postgres,mysql,mongodb,sqlite,docker,kubernetes,terraform,githubactions,gitlab,aws,pytorch&theme=light&perline=9" alt="tech icons" />
+<img src="https://skillicons.dev/icons?i=c,java,python,js,ts,php,kotlin,react,nextjs,tailwind,nodejs,express,spring,fastapi,laravel,postgres,mysql,mongodb,sqlite,docker,kubernetes,terraform,githubactions,gitlab,aws,pytorch&theme=light&perline=9" alt="tech icons" />
 
 </div>
 
