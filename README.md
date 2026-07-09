@@ -1,12 +1,17 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFAFCC,50:FFC8DD,100:CDB4DB&height=200&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFAFCC,50:FFC8DD,100:CDB4DB&height=200&section=header&text=Junior%20Software%20Engineer&fontSize=36&fontColor=6B4A5A&fontAlignY=42)
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=2500&pause=900&color=CDB4DB&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Zainab+%F0%9F%91%8B;Software+Engineering+Student+%40+ENSIAS;Full+Stack+%7C+DevOps+%2F+Cloud+%7C+Applied+AI" alt="typing" />
+<br>
 
-<br><br>
+### Hello, I'm Zainab 👋
 
-<img src="https://skillicons.dev/icons?i=c,java,python,js,ts,php,kotlin,react,nextjs,tailwind,nodejs,express,spring,fastapi,laravel,postgres,mysql,mongodb,sqlite,docker,kubernetes,githubactions,gitlab,terraform,aws,pytorch&theme=light&perline=9" alt="tech stack" />
+I'm a Software Engineering student at ENSIAS, interested in DevOps and Cloud Computing,
+with a growing focus on integrating AI into software solutions.
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,spring,fastapi,laravel,postgres,mysql,mongodb,sqlite,docker,kubernetes,githubactions,gitlab,terraform,aws,pytorch&theme=light&perline=9" alt="tech stack" />
 
 <br><br>
 
